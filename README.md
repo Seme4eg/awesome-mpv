@@ -296,7 +296,7 @@ into popular sections, like Subtitles etc.
 - [multisocket](https://github.com/AN3223/dotfiles/blob/master/.config/mpv/scripts/multisocket.lua) - Creates a numbered socket for each instance of mpv.
 - [Sockets](https://github.com/wis/mpvSockets) - creates one IPC sockets per mpv instance, instead of one socket for the last started instance.   _Supports_: Linux, MacOS and Windows.
 - [multi-command-if](https://github.com/VideoPlayerCode/mpv-tools/) - Very powerful conditional logic and multiple action engine for your keybindings, without having to write a single line of code!
-- [leader key](https://github.com/Seme4eg/mpv-scripts/tree/master#leader) - Adds _leader_ key to your mpv. With prefixes and [which-key](https://github.com/justbur/emacs-which-key) functionality. [demo](https://i.imgur.com/dUWFu3u.gif)
+- [leader key](https://github.com/Seme4eg/mpv-scripts/tree/master#leader) - Adds _leader_ key to your mpv. With prefixes and [which-key](https://github.com/justbur/emacs-which-key) functionality.
 - [cycle-commands](https://github.com/CogentRedTester/mpv-scripts/blob/master/cycle-commands.lua) - Allows input.conf commands to be cycled through with keybinds.
 - [cycle_messages](https://gist.github.com/rrooij/59f57ff5f5a952e56bbb) - Cycle between custom OSD messages.
 - [boss-key](https://github.com/detuur/mpv-scripts) - Minimise and pause video at the same time. Windows/Linux. Eliminated the time lag in previous versions.
